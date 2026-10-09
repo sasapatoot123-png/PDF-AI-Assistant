@@ -1,0 +1,5 @@
+streamlit
+pymupdf
+sentence-transformers
+requests
+numpy
